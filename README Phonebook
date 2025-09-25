@@ -1,0 +1,11 @@
+PhoneBook Contract  
+
+The PhoneBook contract is a simple Solidity smart contract that demonstrates how to use structs, arrays, and mappings.  
+
+It allows storing a list of contacts with their name and phone number.  
+
+Contacts can be added by calling the addContact function.  
+
+The contract uses mappings to make it possible to look up a phone number by providing a name, or look up a name by providing a phone number.  
+
+This project is part of my Solidity learning practice, following SimpleStorage.  
