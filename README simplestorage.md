@@ -14,3 +14,5 @@ You can view it and interact with it on Etherscan.
 --------------------------------------------------------------------------------------------------------------------------------
 This was built as a first practice contract in Solidity.  
 Deployment was done using Remix IDE and MetaMask.  
+
+Code can be found in this folder @simplestorage.sol
